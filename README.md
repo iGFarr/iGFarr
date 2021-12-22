@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iGFarr
-- 👀 I’m interested in ... VR game and simulation development.
-- 🌱 I’m currently learning ... Unity, Unreal Engine, C#, C++.
-- 💞️ I’m looking to collaborate on ... video games or virtual reality projects.
+- 👀 I’m interested in ... Software/Web Development.
 - 📫 How to reach me ... isaacgfarr@gmail.com
 
 <!---
