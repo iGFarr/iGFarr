@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @iGFarr
-- 👀 I’m interested in ... Software/Web Development.
-- 📫 How to reach me ... isaacgfarr@gmail.com/865-659-6974
 
 <!---
 iGFarr/iGFarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
