@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="GitHubMain1.png" width="300" />
-  <img src="GitHubMain2.png" width="300" height="620" /> 
+  <img src="GitHubMain2.png" width="300" height="630" /> 
 </p>
 
 <!---
