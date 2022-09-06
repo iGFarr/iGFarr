@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iGFarr; Check out my proudest project, CubeBuddy!
+- 👋 Hi, I’m @iGFarr; Check out my proudest project, CubeBuddyV2. *Now adapted for all major languages!
 
 <p float="left">
   <img src="GitHubMain1.png" width="400" />
