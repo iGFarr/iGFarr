@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iGFarr; Check out my proudest project, <a href="https://github.com/iGFarr/CubeBuddyV2">CubeBuddyV2</a>. *Now adapted for all major languages!
+- 👋 Hi, I’m @iGFarr; Check out one of my oldest and favorite iOS projects, <a href="https://github.com/iGFarr/CubeBuddyV2">CubeBuddyV2</a>. *Now adapted for all major languages!
 
 <p float="left">
   <img src="GitHubMain1.png" width="300" />
